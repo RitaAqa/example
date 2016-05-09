@@ -1,4 +1,4 @@
-
+news today
 //conflict1112222
 var target = UIATarget.localTarget();
 var app = target.frontMostApp();
