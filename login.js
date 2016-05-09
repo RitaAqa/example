@@ -1,5 +1,4 @@
-news today
-//conflict1112222
+gfkfhgfkghfkgh
 var target = UIATarget.localTarget();
 var app = target.frontMostApp();
 var window = app.mainWindow();
